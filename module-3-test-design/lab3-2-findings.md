@@ -62,7 +62,7 @@ The complete test case sheet is available in:
 
 ### Session Validation
 
-![Session Validation](../screenshots/lab3-2-session-validation.png)
+![Session Validation](../screenshots/lab3-2-session-timeout.png)
 
 ### Test Case Sheet
 
