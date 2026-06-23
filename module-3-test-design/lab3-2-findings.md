@@ -64,6 +64,8 @@ The complete test case sheet is available in:
 
 ![Session Validation](../screenshots/lab3-2-session-timeout.png)
 
+The screenshot shows the application redirecting the user back to the login page after the active session was terminated. This confirms that protected resources cannot be accessed without a valid authenticated session and that session validation controls are functioning as expected.
+
 ### Test Case Sheet
 
 ![Test Case Sheet](../screenshots/lab3-2-test-case-sheet.png)
